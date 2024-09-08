@@ -4,6 +4,8 @@
 - 📫 **How to reach me:** supritha.kamal@gmail.com
 - ⚡ **Fun fact:** I could probably write a 1000-word blog post based on the way you wear your shoes
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Supritha-Kamalanathan)](https://git.io/streak-stats)
+
 <!---
 Supritha-Kamalanathan/Supritha-Kamalanathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
